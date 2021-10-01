@@ -1,0 +1,15 @@
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\bin\Debug\netstandard2.0\pokemonapp.deps.json
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\bin\Debug\netstandard2.0\pokemonapp.dll
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\bin\Debug\netstandard2.0\ref\pokemonapp.dll
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\bin\Debug\netstandard2.0\pokemonapp.pdb
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.csproj.AssemblyReference.cache
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.AssemblyInfoInputs.cache
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.AssemblyInfo.cs
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.csproj.CoreCompileInputs.cache
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.dll
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\ref\pokemonapp.dll
+D:\DP\Week02\lab02-basic-syntax-oo-in-c-JarneDemoen\pokemonapp\pokemonapp\obj\Debug\netstandard2.0\pokemonapp.pdb
