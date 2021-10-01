@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="basicSyntax.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Grid>
+            <!--Image related to the subject of the quote-->
+            <Image x:Name="imgSubject" Aspect="AspectFill" Source=" https://cdn.pixabay.com/photo/2018/08/22/06/47/code-3622942_960_720.jpg " />
+            <!--White (!) label showing the subject's name-->
+            <Label x:Name="lblSubject" Text="(subject)" Margin="20" TextColor="White" VerticalOptions="Start" HorizontalOptions="End" HorizontalTextAlignment="End" />
+        </Grid>
+        <!--Label showing the content of the quote:-->
+        <Label x:Name="lblContent" TextColor="Black" Text="(your quote content goes here)" Grid.Row="1" FontAttributes="Bold" FontSize="Large" Margin="30,30,30,0" />
+        <!--Label showing the author of the quote:-->
+        <Label x:Name="lblAuthor" TextColor="Black" Text="(no author)" Margin="30,0,0,0" Grid.Row="2" FontAttributes="Bold" />
+        <!--Button used to show a random quote:-->
+        <Button x:Name="btnRandom" Text="Show random quote" Grid.Row="3" Clicked="btnRandom_Clicked" />
+    </Grid>
+
+</ContentPage>
